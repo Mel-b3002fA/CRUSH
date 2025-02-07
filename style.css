@@ -1,0 +1,113 @@
+*{
+    list-style: none;
+}
+
+html{
+    background-color: #FFC7C2;
+}
+
+.header{
+    margin-bottom: 80px;
+}
+    
+.header-wrap{
+    display: flex;
+    justify-content: space-between;
+max-height: 100px;
+align-items: center;
+padding-left: 0px;
+padding-right: 20px;
+line-height: 30%;
+}
+
+.header-title{
+    font-family: Koulen;
+    color: aliceblue;
+    background-color: rgb(31, 30, 30);
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 30px;
+    line-height: 99%;
+    padding: 2px 7px 0px 5px;
+    transform: rotate(-4deg);
+}
+
+.header-list{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.header-list-item{
+    font-family: Koulen;
+    color: rgb(31, 30, 30);
+    font-size: 22px;
+}
+
+.header-contact{
+    font-family: Koulen;
+    color: rgb(31, 30, 30);
+    font-size: 22px;
+}
+
+
+.landing-main-header{
+    font-family: Koulen;
+    color: rgb(31, 30, 30);
+    font-size: 60px;
+}
+
+.landing2{
+    display: flex;
+    justify-content: center;
+}
+
+.landing-main-wrap{
+display: flex;
+flex-direction: column;
+}
+
+.landing-header-wrap{
+max-width:100%;
+text-align: center;
+}
+
+/* change font size! */
+.landing-main-header{
+    font-family: Koulen;
+    font-size: 86px;
+    color: rgb(31, 30, 30);
+    margin: 1px;
+padding: 1px;
+line-height: 80%;
+}
+
+
+.landing-main-para{
+    font-family: Readex Pro;
+    font-size: 30px;
+    color: rgb(31, 30, 30);
+ text-align: center;
+ margin-top: 80px;
+ line-height: 40%;
+ padding-bottom: 1px;
+    
+font-weight: 800px;
+}
+
+.cat{
+    background-image: url(./img/081CF1B1-7758-4CD1-AAA8-4482C2B745C4-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.cat-ad{
+    font-family: Koulen;
+    font-size: 86px;
+    color: rgb(31, 30, 30);
+line-height: 10%;
+padding-top: 480px;
+text-align: center;
+}
