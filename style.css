@@ -165,7 +165,7 @@ text-align: center;
 
 .team{
     background-color: rgb(31, 30, 30);
-    margin-bottom: 60px;
+    padding-bottom: 60px;
 }
 
 .team-header{
@@ -182,7 +182,7 @@ margin-left: 80px;
 
 .team-para{
     font-family: Koulen;
-    font-size: 30px;
+    font-size: 28px;
     color: white;
     margin: 1px;
 padding: 1px;
@@ -205,11 +205,12 @@ margin-top: 80px;
 
 .team-list-para{
     font-family: Koulen;
-    font-size: 30px;
+    font-size: 32px;
     color: white;
     margin: 1px;
 padding: 1px;
 line-height: 80%;
+padding-top: 10px;
 }
 
 
